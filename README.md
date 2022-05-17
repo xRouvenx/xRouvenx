@@ -3,7 +3,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
